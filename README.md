@@ -1,5 +1,12 @@
 # Explorateur_fichiers
 projet de programmation évènementielle
+Membres du groupe:
+-GADO Kolawolé
+-BOKO Amadis
+-DEMAHOU Séréna
+-TIANRY Billy
+-WLOGAN Grâce
+
 Documentation:
 Les problèmes mentionnés ont leur solutions respectivement dans la section solution
 *Problèmes rencontrés:
